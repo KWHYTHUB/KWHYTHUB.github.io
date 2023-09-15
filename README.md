@@ -1,5 +1,5 @@
-# GeodeSDK website
-The source code for the GeodeSDK website.
+# SapphireSDK website
+The source code for the SapphireSDK website.
 
 ## Developing
 
